@@ -6,6 +6,5 @@ Spielkontrolle::Spielkontrolle()
 
 Spielkontrolle::~Spielkontrolle()
 {
+	test
 }
-
-test
