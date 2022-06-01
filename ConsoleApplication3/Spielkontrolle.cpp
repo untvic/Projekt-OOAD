@@ -8,3 +8,4 @@ Spielkontrolle::~Spielkontrolle()
 {
 	test
 }
+
