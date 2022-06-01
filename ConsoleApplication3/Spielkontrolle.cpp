@@ -7,3 +7,5 @@ Spielkontrolle::Spielkontrolle()
 Spielkontrolle::~Spielkontrolle()
 {
 }
+
+test
