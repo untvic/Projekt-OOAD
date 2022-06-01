@@ -6,4 +6,6 @@ Spielkontrolle::Spielkontrolle()
 
 Spielkontrolle::~Spielkontrolle()
 {
+
 }
+
