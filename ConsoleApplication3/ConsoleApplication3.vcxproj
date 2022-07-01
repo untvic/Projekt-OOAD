@@ -24,6 +24,7 @@
     <ProjectGuid>{e5c2e351-a5aa-4717-8747-d8b0addcf300}</ProjectGuid>
     <RootNamespace>ConsoleApplication3</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
+    <ProjectName>REQED</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
@@ -140,10 +141,6 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="main.cpp" />
-    <ClCompile Include="Spielkontrolle.cpp" />
-  </ItemGroup>
-  <ItemGroup>
-    <ClInclude Include="Spielkontrolle.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
